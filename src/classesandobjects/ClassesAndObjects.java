@@ -4,6 +4,8 @@
  */
 package classesandobjects;
 
+import shapes.Triangle;
+
 /**
  *
  * @author paulooliveira
@@ -46,7 +48,10 @@ public class ClassesAndObjects {
         sideLenghts[16] = 3;
        
           
-
+       
+          
+            
+        
     }
     
 }
