@@ -48,8 +48,11 @@ public class ClassesAndObjects {
         sideLenghts[16] = 3;
        
           
-       
-          
+        Person paulo1 = new Person("Paulo", "Machado", 26, 1.74, 83.5);
+        
+        System.out.println(paulo1);
+
+        
             
         
     }
